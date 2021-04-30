@@ -1,0 +1,108 @@
+body{background-color: black;}
+
+/*estilizando div1*/
+
+.inicio{
+    background-image: url('img.html/Black\ Flat\ &\ Minimalist\ Accounting\ Business\ Website.png');
+    height: 650px;
+    color: white;
+}
+
+.div1{
+padding-top: 250px; 
+padding-left: 250px;
+}
+
+h1{
+    font-size: 60px;
+}
+
+/*estilizando div2*/
+
+.div2{
+        display: flex;
+        flex-direction:row;                                                                    
+}   
+
+.divb1{
+        width: 50%;
+        margin-left: 15px;
+        margin-bottom: 35px;
+        padding-top: 20px;
+}
+ 
+ .divb2{
+        width: 50%;
+        margin-right: 300px;
+        margin-top: 60px;
+        color: white;
+ }   
+
+/*estilizando div3*/
+
+.div3{
+    background-color: white;
+
+}
+
+.divc1{
+    text-align: center;
+}
+
+h3{
+    font-size: 30px;
+    padding-top: 40px;
+}
+
+p{
+    font-size: 18px;
+}
+
+
+.divc2{
+    display: flex;
+    flex-direction: row;
+}
+
+.divc2{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+.img2{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+/*}estilizando rodapé*/
+
+.div4{
+    display: flex;
+    flex-direction: row;
+}
+
+.divd1{
+    width: 50%;
+    margin-left: 150px;
+    margin-bottom: 35px;
+    padding-top: 20px;
+}
+
+.divd2{
+    width: 150%;
+    margin-left: 50px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+    
+    
